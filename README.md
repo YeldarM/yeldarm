@@ -1,15 +1,15 @@
-### Hi there 👋 I'm Yeldar Maibassar and I'm QA Automation Tester with 3 years of experience.
+### Hi there 👋 
 
-<!--
-**YeldarM/yeldarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yeldar Maibassar and I'm QA Automation Tester with 3 years of experience.
 
-Here are some ideas to get you started:
+## (https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4#file-coding-gif)
 
-- 🔭 I’m currently working on something special
-- 🌱 I’m currently learning something new
-- 📫 How to reach me: yeld8r@gmail.com
-- 😄 Pronouns: Yeeldaar (Just call me Ed)
-- ⚡ Fun fact: 1. Kissing both cheeks is a common way of greeting someone in Spain. 2. Russians normally open their umbrellas indoors to dry. 3. In some Asian countries, slurping loudly is a sign that the food is good. 4. Mexicans normally celebrate New Year’s Eve by eating 12 grapes at midnight. 5. The world currently speaks over 6000 languages.
+Skills: JS / REACT / JS / HTML / CSS
+
+- 📫 How to reach me: yeld8r@gmail.com 
 
 
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/YeldarM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ymaibassar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100013182016169)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/yeld8r//)  
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeldarm)](https://github.com/anuraghazra/github-readme-stats)
