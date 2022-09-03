@@ -2,7 +2,8 @@
 
 I'm Yeldar Maibassar and I'm QA Automation Tester with 3 years of experience.
 
-## (https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4#file-coding-gif)
+## 
+(https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4#file-coding-gif)
 
 Skills: JS / REACT / JS / HTML / CSS
 
