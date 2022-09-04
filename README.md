@@ -1,8 +1,7 @@
 ### Hello World, I'm Yeldar  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif" class="issueimg mb-40" alt="codeingjag" width="500" height="320">
 
-- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 4 languages ( English, Turkish, Kazakh, Russian)
