@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://www.lambdatest.com/resources/images/news24.gif" class="issueimg mb-40" alt="codeingjag" width="500" height="320">
 
-
+## I'm Husband, Dad, Tester and kinda Creator ;)
 - 📫 How to reach me: yeld8r@gmail.com
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
